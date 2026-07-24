@@ -8,4 +8,4 @@ public class exercise{
         String modified_result = modified_name3.substring(0,1).toUpperCase() + modified_name3.substring(1);
         System.out.println(modified_result);
     }
-}
+}  
